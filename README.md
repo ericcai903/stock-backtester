@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📈 Stock Backtesting Tool
 
 A Python-based stock backtesting engine that simulates a **Moving Average Crossover** trading strategy on historical price data and compares it against a buy-and-hold benchmark.
@@ -104,18 +105,3 @@ stock-backtester/
 - `pandas` — data manipulation
 - `matplotlib` — charting
 
----
-
-## Ideas for Extension
-
-- Add RSI, Bollinger Bands, or MACD strategies
-- Support multiple tickers / portfolio allocation
-- Add Sharpe ratio and Sortino ratio metrics
-- Export trade log to CSV
-- Build a Streamlit web dashboard
-
----
-
-## Disclaimer
-
-This project is for **educational purposes only** and does not constitute financial advice.
