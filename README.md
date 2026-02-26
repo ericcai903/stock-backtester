@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📈 Stock Backtesting Tool
 
 A Python-based stock backtesting engine that simulates a **Moving Average Crossover** trading strategy on historical price data and compares it against a buy-and-hold benchmark.
