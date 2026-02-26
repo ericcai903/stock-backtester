@@ -20,7 +20,7 @@ A Python-based stock backtesting engine that simulates a **Moving Average Crosso
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/stock-backtester.git
+git clone https://github.com/ericcai903/stock-backtester.git
 cd stock-backtester
 
 # Install dependencies
