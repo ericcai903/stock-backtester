@@ -101,3 +101,9 @@ stock-backtester/
 - `pandas` — data manipulation
 - `matplotlib` — charting
 - `streamlit` — web dashboard
+
+---
+
+## Screenshots
+![Dashboard](assets/Dashboard_1.png)
+![Dashboard](assets/Dashboard2.png)
